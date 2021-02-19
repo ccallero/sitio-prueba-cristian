@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
+<rect width="600" height="400" fill="#008"/>
+<path d="M 0,400 600,0" stroke="#FFF" stroke-width="150"/>
+<text font-family="Padauk" font-size="150" font-weight="bold" fill="#F00" transform="rotate(325)">
+<tspan x="-100" y="380">C.N.</tspan>
+<tspan x="170" y="380" font-size="70">de</tspan>
+<tspan x="250" y="380">F.</tspan>
+</text>
+</svg>
